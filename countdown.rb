@@ -8,3 +8,4 @@ def countdown(seconds)
   binding.pry
   "HAPPY NEW YEAR!"
 end
+countdown(10)
